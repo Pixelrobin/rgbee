@@ -1,0 +1,17 @@
+{
+  "name": "rgbee",
+  "version": "1.0.0",
+  "description": "Web RGB color matching game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Savchuk",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "hyperhtml": "^2.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
